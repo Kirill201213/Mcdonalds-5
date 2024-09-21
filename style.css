@@ -5,6 +5,9 @@
 
 .nav-4{
   border: 5px solid red;
+  padding: 0px;
+  text-decoration: none;
+  color: black;
 }
 
 .r{
