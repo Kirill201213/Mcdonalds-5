@@ -3,6 +3,10 @@
   justify-content: space-evenly;
 }
 
+.nav-4{
+  border: 5px solid red;
+}
+
 .r{
   display: flex;
   flex-direction: column;
