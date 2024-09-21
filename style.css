@@ -1,0 +1,176 @@
+.qqq{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.r{
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 50px;
+}
+
+.contacts_div{
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.contacts_part_one{
+  margin-left: 9%;
+}
+
+.contacts_part_two{
+  margin-right: 8%;
+}
+
+.a {
+  padding: 0px;
+  text-decoration: none;
+  color: black;
+}
+
+.end{
+  display: flex;
+  justify-content: space-between;
+}
+
+.end_part_one{
+  display: flex;
+  gap: 50px;
+  margin-left: 9%;
+}
+
+.end_part_two{
+  margin-right: 8%;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.logo{
+  display: flex;
+  padding-top: 50px;
+}
+
+.nav_and_links{
+  display: flex;
+  justify-content: space-between;
+}
+
+.header_div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+   width: 100%;
+}
+
+.first_line {
+  display: flex;
+  width: 150%;
+  margin-bottom: 30px;
+  margin-top: 20px;
+  justify-content: space-between;
+}
+
+.part_one{
+  margin-left: 22%;
+}
+
+.part_two{
+  display: flex;
+  gap: 20px;
+}
+
+nav a, details {
+  color: black;
+  margin: 10px;
+  font-family: sans-serif;
+}
+
+.mcdonald {
+  width: 80px;
+  height: 70px;
+}
+
+nav {
+  margin-left: 50px;
+  font-size: 15px;
+  padding: 10px;
+  display: flex;
+}
+
+header h2{
+  font-size: 15px;
+}
+
+header {
+  border-bottom: 1px solid rgb(0, 0, 0);
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  margin: 0;
+}
+
+.a {
+  padding: 0px;
+  text-decoration: none;
+  color: black;
+}
+
+.main-h1{
+  text-align: center;
+  font-size: 30px;
+}
+
+.main-div1{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-div-p{
+  width: 1170px;
+}
+
+main-h2{
+  font-size: 40px;
+}
+
+.main-img1{
+  width: 500px;
+}
+
+.main-div2{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 200px;
+}
+
+.main-div2-1{
+  margin-left: 30px;
+}
+
+.main-a1{
+  background-color: rgb(250, 225, 0);
+  text-decoration: none;
+  color: black;
+  padding: 15px;
+  border-radius: 5px;
+  
+}
+
+.main-a1-p{
+  margin-top: 50px;
+}
+
+.main-p1{
+  margin-top: 100px ;
+}
+
+.main-p2{
+  margin-top: 20px;
+  font-size: 10px;
+}
