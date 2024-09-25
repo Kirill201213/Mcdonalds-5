@@ -10,6 +10,11 @@
   color: black;
 }
 
+.mcdonald1{
+  width: 40px;
+  height: 30px;
+}
+
 .r{
   display: flex;
   flex-direction: column;
