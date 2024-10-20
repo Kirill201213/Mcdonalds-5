@@ -76,7 +76,7 @@ max-width: 100px;
 width: 80px;
 height: auto;
 }
-20 жовтня 14:28
+
 .menu-item span {
 display: block;
 margin-top: 5px;
@@ -97,7 +97,7 @@ padding-right: 20px;
 
 .header-summary::after {
 content: '⌄';
-font-size: 35px;
+font-size: 12px;
 margin-left: 8px;
 display: inline-block;
 transform: rotate(0deg) scaleX(1.3);
